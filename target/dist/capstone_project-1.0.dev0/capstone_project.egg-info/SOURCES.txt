@@ -1,0 +1,8 @@
+helloworld.py
+setup.py
+capstone_project.egg-info/PKG-INFO
+capstone_project.egg-info/SOURCES.txt
+capstone_project.egg-info/dependency_links.txt
+capstone_project.egg-info/namespace_packages.txt
+capstone_project.egg-info/top_level.txt
+capstone_project.egg-info/zip-safe

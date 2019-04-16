@@ -1,0 +1,36 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.6' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build/lib
+copying helloworld.py -> build/lib
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64
+creating build/bdist.linux-x86_64/wheel
+copying build/lib/helloworld.py -> build/bdist.linux-x86_64/wheel
+running install_egg_info
+running egg_info
+writing capstone_project.egg-info/PKG-INFO
+writing dependency_links to capstone_project.egg-info/dependency_links.txt
+writing namespace_packages to capstone_project.egg-info/namespace_packages.txt
+writing top-level names to capstone_project.egg-info/top_level.txt
+reading manifest file 'capstone_project.egg-info/SOURCES.txt'
+writing manifest file 'capstone_project.egg-info/SOURCES.txt'
+Copying capstone_project.egg-info to build/bdist.linux-x86_64/wheel/capstone_project-1.0.dev0-py3.6.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/capstone_project-1.0.dev0.dist-info/WHEEL
+creating 'dist/capstone_project-1.0.dev0-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'helloworld.py'
+adding 'capstone_project-1.0.dev0.dist-info/METADATA'
+adding 'capstone_project-1.0.dev0.dist-info/WHEEL'
+adding 'capstone_project-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'capstone_project-1.0.dev0.dist-info/top_level.txt'
+adding 'capstone_project-1.0.dev0.dist-info/zip-safe'
+adding 'capstone_project-1.0.dev0.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel
